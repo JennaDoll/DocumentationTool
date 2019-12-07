@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\bin\Debug\TrackSTAR.exe.config
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\bin\Debug\TrackSTAR.exe
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\bin\Debug\TrackSTAR.pdb
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.csprojAssemblyReference.cache
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.Properties.Resources.resources
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.csproj.GenerateResource.cache
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.exe
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.pdb
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.Main_form.resources
+C:\Users\1\source\repos\TrackSTAR\TrackSTAR\obj\Debug\TrackSTAR.DocTracker_form.resources
